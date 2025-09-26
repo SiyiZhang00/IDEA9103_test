@@ -1,2 +1,4 @@
 # IDEA9103_test
-This is a test for the IDEA 9103 Class haha lot
+My first repository for IDEA9103.
+
+This is the readme file!!!
